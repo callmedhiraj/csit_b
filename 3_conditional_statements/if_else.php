@@ -1,0 +1,3 @@
+<?php
+//same as C
+?>
